@@ -1,3 +1,5 @@
+![imagem](./src/components/assests/telabate.gif)
+
 # Projeto Estacionamento "Bate-Bate"
 
 Este é um projeto de aplicativo web de estacionamento "Bate-Bate" desenvolvido em React e Vite.js. Ele permite que você cadastre carros, registrando a placa, o modelo e a hora de entrada. Além disso, oferece a funcionalidade de buscar carros pelo número da placa.
